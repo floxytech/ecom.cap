@@ -1,0 +1,8 @@
+caperone-enterprises/
+├── index.html
+├── products.html
+├── order.html
+├── contact.html
+├── style.css
+└── assets/
+    └── images/ (optional: product images)
